@@ -8,4 +8,4 @@ I wrote this with the intention of creating a remote control panel for BF3 serve
 
 This is on Github for historical reasons. **Use at your own risk.**
 
-** Created: 2011-11 **
+**Created: 2011-11**
