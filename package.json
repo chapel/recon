@@ -15,5 +15,8 @@
   "repository": "",
   "author": "Jacob Chapel",
   "license": "MIT",
-  "readmeFilename": "readme.md"
+  "readmeFilename": "readme.md",
+  "engines": {
+    "node": "0.4.x"
+  }
 }
